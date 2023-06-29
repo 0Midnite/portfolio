@@ -17,15 +17,6 @@ body {
     text-decoration: none;
 }
 
-a {
-	color: #ddd;
-    text-decoration: none;
-}
-
-a:hover {
-	color: #fff; 
-}
-
 /*footer {
     width: 100%;
     padding: 10px;
@@ -49,7 +40,7 @@ footer {
 
 button {
     background-color: #0f0f0f;
-    transition: background-color 0.4s ease;
+    transition: background-color 0.3s ease;
     border: none;
     color: #fff;
     border-radius: 7px;
@@ -71,6 +62,11 @@ h2 {
     margin-bottom: 0.3em;
 }
 
-.backbtn {
-    color: #aaa;
+a {
+	color: #ddd;
+    text-decoration: none;
+}
+
+a:hover {
+	color: #aaa; 
 }
